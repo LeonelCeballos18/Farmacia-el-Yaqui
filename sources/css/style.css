@@ -43,3 +43,18 @@ ul{
   width: 25px;
   height: 25px;
 }
+
+.btnUp{
+  display: block;
+  left: 95%;
+  top: 90%;
+  cursor: pointer;
+  width: 3rem;
+  height: 3rem;
+}
+
+.btnUp img{
+  width: 3rem;
+  height: 3rem;
+  z-index: -1;
+}
